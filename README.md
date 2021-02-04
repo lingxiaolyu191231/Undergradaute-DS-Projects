@@ -8,3 +8,7 @@
  
  
  ### As I am new to Github and open-source platforms, if there is anything I fail to compile, please free to leave a comment. 
+ 
+ #1. ML with Boston Real Estate Pricing (data scrapped from Realtor.com)
+ - Machine Learning using R
+ - ML Methods used: Random Forest, CART with bagging, Boosting, and ANN
