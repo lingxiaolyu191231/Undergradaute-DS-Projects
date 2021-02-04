@@ -7,6 +7,6 @@
 - My models: ANN and Boosting (model outputs uploaded here)
 - R codes for my models: R file (uploaded)
 - Snapshot of the final dataset: realtor_final_dataset (snapshot).csv (uploaded)
-# Acknowledgement: 
+## Acknowledgement: 
 Thank Professor Davit Khachatryan for creating and teaching such an amazing course.
 Linkedin: https://www.linkedin.com/in/davit-khachatryan-42149912/
