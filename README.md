@@ -4,5 +4,5 @@
 ## Doc Description:
 - Feature Description: Data Notes.doc 
 - Key info Summary: presentation file with all key information included.
-- My models: ANN and Boosting (model outpus uploaded here)
+- My models: ANN and Boosting (model outputs uploaded here)
 - R codes for my models: R file (uploaded)
