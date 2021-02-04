@@ -6,3 +6,4 @@
 - Key info Summary: presentation file with all key information included.
 - My models: ANN and Boosting (model outputs uploaded here)
 - R codes for my models: R file (uploaded)
+- Snapshot of the final dataset: realtor_final_dataset (snapshot).csv (uploaded)
